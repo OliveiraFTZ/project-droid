@@ -188,3 +188,20 @@ div.video iframe {
     width: 90%;
     height: 90%;
 }
+
+footer {
+    background-color: var(--cor05);
+}
+
+footer p {
+    text-align: center;
+}
+
+footer a {
+    text-decoration: none;
+    color: black;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
